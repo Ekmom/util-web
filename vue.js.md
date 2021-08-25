@@ -2,6 +2,10 @@
 
 ## Vue.js 3
 
+### Cursos Gratúitos
+
+- [Vue.js Brasil](https://igorhalfeld.teachable.com/)
+
 ### Composition API
 
 - [Porque API de Composição?](https://vuejsbr-docs-next.netlify.app/guide/composition-api-introduction.html#porque-api-de-composicao)
@@ -21,3 +25,7 @@ Inglês:
 ## Frameworks
 
 -[Vue Native](https://vue-native.io/)
+
+## Sites sobre Vue.js
+
+- [Vue.js Brasil](https://vuejsbrasil.org/)
